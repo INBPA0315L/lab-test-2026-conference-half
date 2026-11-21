@@ -1,0 +1,22 @@
+[
+  {"title": "Scaling Event-Driven Services", "speaker": "Adam Kertesz", "track": "Backend", "duration": 45, "rating": 4.6,
+   "attendees": [{"email": "jdoe@acme.example", "company": "Acme", "age": 31}, {"email": "kmiller@nimbus.example", "company": "Nimbus", "age": 27}, {"email": "lfox@orbit.example", "company": "Orbit", "age": 42}]},
+  {"title": "Signals in Modern UI Frameworks", "speaker": "Bea Lukacs", "track": "Frontend", "duration": 30, "rating": 4.2,
+   "attendees": [{"email": "kmiller@nimbus.example", "company": "Nimbus", "age": 27}, {"email": "mrose@pixel.example", "company": "Pixel", "age": 24}]},
+  {"title": "Lakehouses Without the Hype", "speaker": "Csaba Orosz", "track": "Data", "duration": 60, "rating": 4.8,
+   "attendees": [{"email": "nwhite@datacorp.example", "company": "DataCorp", "age": 36}, {"email": "jdoe@acme.example", "company": "Acme", "age": 31}, {"email": "pgray@orbit.example", "company": "Orbit", "age": 29}, {"email": "qblack@datacorp.example", "company": "DataCorp", "age": 45}]},
+  {"title": "Threat Modeling for Developers", "speaker": "Dora Antal", "track": "Security", "duration": 45, "rating": 4.4,
+   "attendees": [{"email": "lfox@orbit.example", "company": "Orbit", "age": 42}]},
+  {"title": "Zero-Downtime Kubernetes Upgrades", "speaker": "Endre Bodnar", "track": "Cloud", "duration": 30, "rating": 3.9,
+   "attendees": [{"email": "rgreen@nimbus.example", "company": "Nimbus", "age": 33}, {"email": "pgray@orbit.example", "company": "Orbit", "age": 29}]},
+  {"title": "Virtual Threads in Practice", "speaker": "Adam Kertesz", "track": "Backend", "duration": 60, "rating": 4.9,
+   "attendees": [{"email": "jdoe@acme.example", "company": "Acme", "age": 31}, {"email": "rgreen@nimbus.example", "company": "Nimbus", "age": 33}, {"email": "swood@acme.example", "company": "Acme", "age": 38}]},
+  {"title": "Accessible Forms by Default", "speaker": "Bea Lukacs", "track": "Frontend", "duration": 45, "rating": 4.1,
+   "attendees": []},
+  {"title": "Streaming SQL for Everyone", "speaker": "Csaba Orosz", "track": "Data", "duration": 30, "rating": 4.3,
+   "attendees": [{"email": "qblack@datacorp.example", "company": "DataCorp", "age": 45}, {"email": "mrose@pixel.example", "company": "Pixel", "age": 24}]},
+  {"title": "Secrets Management at Scale", "speaker": "Dora Antal", "track": "Security", "duration": 60, "rating": 4.7,
+   "attendees": [{"email": "swood@acme.example", "company": "Acme", "age": 38}, {"email": "nwhite@datacorp.example", "company": "DataCorp", "age": 36}]},
+  {"title": "Cost-Aware Cloud Architectures", "speaker": "Endre Bodnar", "track": "Cloud", "duration": 45, "rating": 4.2,
+   "attendees": [{"email": "kmiller@nimbus.example", "company": "Nimbus", "age": 27}]}
+]
